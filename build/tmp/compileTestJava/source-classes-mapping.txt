@@ -1,0 +1,13 @@
+Tests/SetDeviceMode.java
+ Tests.SetDeviceMode
+ Tests.SetDeviceMode$1
+Tests/SetNetwork.java
+ Tests.SetNetwork
+Tests/GeoMocking.java
+ Tests.GeoMocking
+Tests/CaptureNetworkTraffic.java
+ Tests.CaptureNetworkTraffic
+Tests/CaptureConsoeLogs.java
+ Tests.CaptureConsoeLogs
+Tests/SetAuthHeader.java
+ Tests.SetAuthHeader
